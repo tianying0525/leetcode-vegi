@@ -58,7 +58,7 @@ footer-links:
 #   github:
 #   instagram:
   linkedin: https://www.linkedin.com/in/tianying-connie-zhou-953b62171/
-  Unsplash: 
+  Unsplash: https://unsplash.com/@conniezzz
 #   pinterest: 
 #   rss:
 #   stackoverflow:
@@ -67,7 +67,7 @@ footer-links:
 #   youtube:
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2010 Connie Zhou
+footer-text: Copyright (c) 2020 Connie Zhou
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
